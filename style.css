@@ -1,0 +1,86 @@
+#contact iframe
+{
+    width: 100%;
+}
+.marriage_mainDiv
+{
+    border: 1px solid #000202;
+}
+
+.marriage_mainDiv img
+{
+    width: 50%;
+}
+
+.marriage_mainDiv h5 , .marriage_mainDiv p
+{
+    margin: 20px;
+}
+
+.event_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.event_head i
+{
+float: right;
+}
+
+.event.text span
+{
+color: #000202;
+}
+
+body {
+    background: #ccfae8;
+}
+
+.achievments
+{
+    margin-bottom: 20px;
+}
+
+.myNavbar
+{
+    color: #000202;
+}
+
+ul {
+    list-style-type: none;
+    margin: 20;
+    padding: 20;
+    overflow: visible;
+    background-color: #000202;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #ccfae8;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #ccfae8;
+  }
+
+  .list-group-item-success {
+    background-color: #ccfae8;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
